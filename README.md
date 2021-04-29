@@ -1,0 +1,1 @@
+all submodules are cloned from [nullgemm](https://github.com/nullgemm). this is also inspired by him and most of the code is in fact his im just modifying it and working with it to get used to making TUIs
